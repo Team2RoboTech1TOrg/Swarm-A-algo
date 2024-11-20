@@ -49,7 +49,7 @@ BATCH_SIZE = 64
 # ----------------------
 SCREEN_SIZE = 900
 BAR_HEIGHT = int(SCREEN_SIZE * 0.13)
-GRID_SIZE = 30
+GRID_SIZE = 20
 MARGIN_SIZE = 1
 
 # ----------------------
